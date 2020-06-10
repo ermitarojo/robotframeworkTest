@@ -4,3 +4,6 @@ Resource     ../Resources/Global.robot
 Documentation     homepage
 
 **Keywords**
+Open Homepage
+
+

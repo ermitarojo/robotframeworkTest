@@ -7,6 +7,7 @@ Test Teardown     globalkeywords.TearDown_Test
 
 ***Test Cases***
 Test1
-      Capture Page Screenshot
+      [Documentation]      Test all links in the homepage are still working
+      Element Should be visible      id=nav-home
       
      
