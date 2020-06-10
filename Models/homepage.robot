@@ -1,5 +1,6 @@
-**Settings**
-Library     Selenium2library
-Resource     ../Resource/Global.robot
+***Settings***
+Library     Selenium2Library
+Resource     ../Resources/Global.robot
+Documentation     homepage
 
 **Keywords**

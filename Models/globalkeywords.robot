@@ -1,9 +1,10 @@
-**Settings**
-Library     Selenium2library
+***Settings***
+Library      Selenium2Library
 Resource     ../Resources/Global.robot
+Documentation      globalkeywords
 
 **Keywords**
-Setup Test
+Setup_Test
      open browser     ${URL}      ${browser}
-TearDown Test
+TearDown_Test
     close browser
